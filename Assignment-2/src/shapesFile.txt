@@ -1,0 +1,6 @@
+
+circle, 0, 1
+square, 2, 3
+circle, 4, 2
+triangle, 5, -3
+equilateral triangle, -1, -3

@@ -1,0 +1,1 @@
+Shape{Circle, color='Black', dimensions=2D, x_coordinates=12.0, y_coordinates=23.0}
