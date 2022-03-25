@@ -1,0 +1,5 @@
+horse 5 black male 6600
+chicken 1 orange female 40
+lamb 3 white male 2000
+cow 4 black female 5000
+cow 1 white female 1500
